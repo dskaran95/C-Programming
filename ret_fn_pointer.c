@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int ref(int a,int b,int *s,int *p,int *d);
 int main()
 
